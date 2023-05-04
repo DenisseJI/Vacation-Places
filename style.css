@@ -1,0 +1,50 @@
+.content {
+    max-width: 500px;
+    margin: auto;
+  }
+.topnav {
+    overflow: hidden;
+    background-color:gainsboro;
+  }
+  
+body {
+    background-color: ghostwhite;
+}
+
+.button {
+    background-color: #287279;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 19px;
+    margin: 8px 15px;
+    cursor: pointer;
+  }
+p {
+    font-size: 30px;
+}
+h2 {
+    font-size: 50px;
+}
+h3 {
+    font-size: 25px;
+}
+
+li {
+  border: 5px outset rgb(119, 93, 93);
+  background-color: lightblue;    
+  text-align: center;
+}
+
+.place-city{
+  background: #cce5ff;
+  margin: 5px;
+}
+
+.place-activity{
+  background: #1bd6e4;
+  margin: 5px;
+}
